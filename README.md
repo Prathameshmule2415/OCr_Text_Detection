@@ -3,4 +3,4 @@ ocr is optical character recognition in this project we have use opencv and pyte
 
 ![sample output image](./ocrsample.png)
 
-![sample output image](./output sample.PNG)
+![sample output image](ouput sample.PNG)
